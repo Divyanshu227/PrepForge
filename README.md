@@ -1,10 +1,10 @@
-# PrepForge 🚀
+<h1 align="center">🚀 PrepForge</h1>
 
 <p align="center">
   <img src="/assets/logo/logo.png" alt="PrepForge Logo" />
 </p>
 
-<h1 align="center">🚀 PrepForge</h1>
+
 PrepForge is a full-stack placement preparation platform for students.
 
 ## Features (MVP)
@@ -21,4 +21,4 @@ PrepForge is a full-stack placement preparation platform for students.
 - Authentication: JWT  
 - Payments: Razorpay / Stripe  
 
-This project is currently under active development.
+## This project is currently under active development.
