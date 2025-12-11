@@ -1,7 +1,7 @@
 <h1 align="center">🚀 PrepForge</h1>
 
 <p align="center">
-  <img src="/assets/logo/logo.png" alt="PrepForge Logo" />
+  <img src="/images/logo.png" alt="PrepForge Logo" />
 </p>
 
 
