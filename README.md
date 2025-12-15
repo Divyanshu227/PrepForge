@@ -21,4 +21,4 @@ PrepForge is a full-stack placement preparation platform for students.
 - Authentication: JWT  
 - Payments: Razorpay / Stripe  
 
-## This project is currently under active development.
+### This project is currently under active development.
